@@ -2,6 +2,10 @@
 
 Clone the Repo
 
+$ git clone https://github.com/vijayporwal/react-component-lifecycle.git
+
+Setup:
+
 $ npm install
 
 List of Available tasks:
