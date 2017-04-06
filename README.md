@@ -4,8 +4,8 @@ Clone the Repo
 
 $ npm install
 
-Available tasks
+List of Available tasks
 
-Start http server: $ npm start
+1. Start http server: $ npm start
 
-Run development environment: $ npm run development
+2. Run development environment: $ npm run development
