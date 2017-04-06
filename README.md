@@ -25,3 +25,5 @@ List of NPM Modules :
 - babel-preset-stage-0,
 - webpack
 
+
+This is a basic architecture of react to start with development of react application. 
