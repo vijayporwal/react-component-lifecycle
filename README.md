@@ -4,6 +4,10 @@
 
 Clone the Repo
 
-$npm start
+$ npm install
 
-$npm run development
+Available tasks
+
+Start http server: $ npm start
+
+Run development environment: $ npm run development
