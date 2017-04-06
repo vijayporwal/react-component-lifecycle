@@ -1,1 +1,1 @@
-# Example of React component lifecycle and use of modules
+# Example of React component lifecycle and lean how to use react modules
