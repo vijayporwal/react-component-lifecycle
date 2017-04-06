@@ -4,7 +4,7 @@ Clone the Repo
 
 $ npm install
 
-List of Available tasks
+List of Available tasks:
 
 1. Start http server: $ npm start
 
