@@ -1,0 +1,30 @@
+{
+  "name": "react-basics",
+  "version": "1.0.0",
+  "description": "this is basic react application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "development": "webpack",
+    "start": "http-server"
+  },
+  "keywords": [
+    "basic",
+    "react",
+    "application"
+  ],
+  "author": "Vijay Porwal <vijay.porwal.mca@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.9.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-react": "^6.23.0",
+    "babel-preset-stage-0": "^6.22.0",
+    "webpack": "^1.14.0"
+  }
+}
