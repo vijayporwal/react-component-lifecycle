@@ -1,2 +1,9 @@
-# Example of React component lifecycle 
-# Lean how to use react and our own modules
+# Example of React component lifecycle and learn how to use modules
+
+# Setup
+
+Clone the Repo
+
+$npm start
+
+$npm run development
