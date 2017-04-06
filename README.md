@@ -1,18 +1,26 @@
 # Example of React component lifecycle and learn how to use modules
 
+Used Technologies:
+- React
+- ES6
+- Webpack
+- Babel
+
 Clone the Repo
 
-$ git clone https://github.com/vijayporwal/react-component-lifecycle.git
+git clone https://github.com/vijayporwal/react-component-lifecycle.git
 
 Install the dependencies:
 
-$ npm install
+npm install
 
 List of Available tasks:
 
 1. Start http server: $ npm start
 
-2. Run development environment: $ npm run development
+Check your  http://localhost:8080/
+
+2. Run development environment: npm run development
 
 List of NPM Modules :
 - react
