@@ -1,3 +1,5 @@
+Note: Currently this is in "Under construction"
+
 # Example of React component lifecycle and learn how to use modules
 
 Used Technologies:
